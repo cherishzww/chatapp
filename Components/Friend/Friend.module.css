@@ -1,0 +1,19 @@
+.Friend{
+    width: 80%;
+    margin: 1rem;
+
+}
+
+.Friend_box{
+    display: grid;
+    grid-template-columns: 1.4fr 2.2fr;
+    margin-left: 180px;
+    margin-top: 50px;
+    gap: 2rem;
+}
+
+.Friend_box_letf{
+    background-color: rgba(0, 0, 0, 0.25);
+    padding: 1rem;
+    border-radius: .5rem;
+}

@@ -1,36 +1,22 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Blockchain Chat Dapp
+这是一个基于区块链的聊天应用（Dapp），实现了用户注册、添加好友和聊天功能，并且使用区块链技术记录数据。本应用已部署在 Sepolia 区块链上。
 
-## Getting Started
+特点
+用户注册：允许用户创建新账户。
+添加好友：用户可以添加其他用户为好友。
+聊天功能：支持用户之间的实时聊天。
+区块链数据记录：所有聊天记录和交互数据均在区块链上安全存储。
+技术栈
+Backend：使用 Nest.js 构建。
+Blockchain：使用 Hardhat 进行智能合约开发。
+合约地址
+Sepolia 合约地址：0xd157b3AFb98B4078b77609dAcdF40b39cAD15571
 
-First, run the development server:
+如果您想在 README 中添加一个打赏的部分，可以这样写：
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+打赏
+如果您喜欢这个项目并想支持我们的工作，可以通过以下方式进行打赏。您的支持将极大地鼓励我们继续改进和发展这个应用！
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+通过加密货币：您可以通过以下加密货币地址进行打赏：
+泰达币 (USDT-trc20)：TGNLMS127BmqQAQKra8MTnnovc8m3JBUrr
+非常感谢您的支持！
